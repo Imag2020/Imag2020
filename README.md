@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Imed MAGROUNE (Imag2020)
-- 👀 I’m interested in AI Robotics and AIoT
-- 🌱 I’m currently working on deepnologic.com
-- 💞️ I’m looking to collaborate on AI layers for FreeRTOS (Arduino / ESP32)
+- 👀 I’m interested in AI LLMs Robotics and  AIoT
+- 🌱 I’m currently working as head of Scientific Computing Lab
+- 💞️ 
 - 📫 How to reach me : imed@magroune.net
 
 <!---
